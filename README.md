@@ -1,72 +1,54 @@
-# (Nombre del proyecto)
+# Historia + juegos interactivos
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : MI Proyecto(Alicia)
 
-Web: (url github.io)
+Web: https://github.com/aliciaaurora/alicia.git.hub.io/edit/main/README.md
 
-Autor: (Nombre apellidos)
+Autor: Alicia Aurora Bilotta
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : En este proyecto busco contar 2 hitorias mediante una espécie de juego interactivo en el que hay diferentes botones con varias funciones.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: historia / juego .
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Resolución: 600x400 
 
-(insertar imágenes a resolucion de 100px alto)
+Tamaño proyecto: 28MB
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-Tamaño proyecto: 14MB
-
-Fecha : 14/05/2025
-
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Fecha : 26/02/2025 - 28/05/2025
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![IMG_2498](https://github.com/user-attachments/assets/bdb4dce0-87cb-4318-8300-8abc36e4fb77)
+![IMG_2507](https://github.com/user-attachments/assets/53addf58-e125-4381-a6f2-0dcb73d8caff)
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
+He realizado el esquema de navegación, que viene a ser un pequeño storyboard, de los botones y de las paginas a las que te van a llevar los respectivos botones, con la aplicación “Procreate” en mi iPad.
+En la Escena 1 he creado un botón que te lleva a la ventana del menú (Escena 2). En esa ventana he creado otros 2 botones, el Botón 1 te lleva a la Escena 3 en el que se desarrolla la Historia 1 y el Botón 2 te lleva a a la Escena 4 en el
+que se desarrolla la Historia 2.
+A continuación, en la misma escena (Escena 2) he creado otro botón en la parte inferior izquierda que te lleva a una ventana nueva (Escena 5), en la que he creado otros 2 botones, el Botón 6 hará que aparezca una imagen y el Botón 7 hará que desaparezca, todo ello en la misma escena, simplemente cambiando los frames.
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque interactuas con una aplicación multimedia.
 
-Orientado a .. (Público)
+Orientado a todo el público, especialmente niños.
 
 Etapa 2: Desarrollo / actividades realizadas
+Hacer click en el botón de la imagen del click para pasar a la pagina del menú. Hacer click en cada botón para ver todas las escenas. 
 
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
 Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+En general, todo el proyecyo funciona bien. Lo unico es la escena de la musica y sonido porque tienes que parar una musica para que no se solape con la otra.
 
 ## 4. Conclusiones
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+He intetnado llevar la practica al día, en general no he tenido problemas a la hora de hacer las pequeñas practicas de clase puesto que, todo lo que explicaba el profe me lo apuntaba para acordarme y tener el paso a paso.
+He tenido problemas con la practica del sonido, escribí un Script ID diferente al de la variable sin darme cuenta y estuve varios dias intentado ver que era lo que fallaba y al final lo encontré.
+Me gustaría tener mas tiempo libre en mi dia a dia para poder acabar la práctica como me hubiese gustado. Mi idea era hacer varias escenas en las que se desarrolle una historia en la que el espectador pueda elegir como va avanzando haciendo click en diferentes botones.
 
-## 5 Referencias
-**Artículos y blogs **
-
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
-
-**Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
 
 Mayo 2025
