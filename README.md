@@ -42,7 +42,7 @@ Etapa 2: Desarrollo / actividades realizadas
 Hacer click en el botón de la imagen del click para pasar a la pagina del menú. Hacer click en cada botón para ver todas las escenas. 
 
 Etapa 3: Problemas identificados
-En general, todo el proyecyo funciona bien. Lo unico es la escena de la musica y sonido porque tienes que parar una musica para que no se solape con la otra.
+En general, todo el proyecyo funciona bien. Lo unico es la escena de la musica y sonido porque tienes que parar una musica para que no se solape con la otra. Además, al entar en github no funciona el proyecto y no deja interactuar. El proyecto en hippani funciona perfectamente
 
 ## 4. Conclusiones
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
